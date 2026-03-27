@@ -34,7 +34,7 @@ MK_2in1_App/
 4. Your site will be live.
 
 ## 👨‍💻 Author
-MK
+MITHILESH APP DEVELOPER 
 
 ---
 ⭐ If you like this project, consider giving it a star on GitHub!
